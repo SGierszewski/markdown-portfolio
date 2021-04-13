@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Hobbies
+
+1. My dog
+2. Gaming
+3. Crime Fiction novels/series
