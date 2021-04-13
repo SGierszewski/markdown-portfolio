@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My knowledge combines **scientific working methods** and **scientific writing** with my new evolving _web development skills_.
